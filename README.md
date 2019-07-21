@@ -179,4 +179,4 @@ github地址：[https://github.com/heruijun/flutter_360](https://github.com/heru
 
 从Flutter基础开始讲解，结合实际案例，让读者逐步掌握Flutter的核心内容，实战项目篇又通过2个实战项目让读者除了掌握Flutter相关知识之外，对node、mongo，vue做了一些介绍，可以让更多的读者拥抱目前最火的大前端技术。
 
-京东购买链接：[https://item.jd.com/12546599.html](https://item.jd.com/12546599.html)
+京东购买链接：[点击购买](https://item.jd.com/12546599.html)
