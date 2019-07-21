@@ -167,12 +167,16 @@ if (e.delta.dx > 0) {
 ```
 
 这样，一个简单的360展物就实现了，看一下最终效果：
+
 ![](https://raw.githubusercontent.com/heruijun/chahu/master/wu.gif)
 
 github地址：[https://github.com/heruijun/flutter_360]()
 
 ## 新书推荐
 《Flutter从0到1构建大前端应用》
-从Flutter基础开始讲解，结合实际案例，让读者逐步掌握Flutter的核心内容，实战项目篇又通过2个实战项目让读者除了掌握Flutter相关知识之外，对node、mongo，vue做了一些介绍，可以让更多的读者拥抱目前最火的大前端技术。
+
 ![](https://img14.360buyimg.com/n1/jfs/t1/55763/28/4089/173115/5d1d7041E7d6bc656/d681b55e89bac6f6.jpg)
+
+从Flutter基础开始讲解，结合实际案例，让读者逐步掌握Flutter的核心内容，实战项目篇又通过2个实战项目让读者除了掌握Flutter相关知识之外，对node、mongo，vue做了一些介绍，可以让更多的读者拥抱目前最火的大前端技术。
+
 京东购买链接：[https://item.jd.com/12546599.html]()
