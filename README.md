@@ -166,7 +166,7 @@ if (e.delta.dx > 0) {
 }
 ```
 
-这样，一个简单的360展物就实现了，看一下最终效果：
+这样，一个简单的360展物就实现了，你可以在屏幕上任意触摸控制展物，很神奇吧！看一下最终效果：
 
 ![](https://raw.githubusercontent.com/heruijun/chahu/master/wu.gif)
 
